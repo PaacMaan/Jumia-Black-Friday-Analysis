@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "Facebook Page Reviews Scraper",
+  "description": "A simple Chrome extension to scrape reviews from a page on Facebook",
+  "version": "1.0.1",
+  "permissions": [
+    "contextMenus"
+  ],
+  "background": {
+    "scripts": ["script.js"]
+  },
+  "content_scripts": [
+  {
+  "matches": ["https://www.google.com/*"],
+  "css": ["main.css"]
+  }
+  ],
+  
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png"
+  }
+}

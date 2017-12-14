@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/341501/4f47d87fb89c4ef299bbcd116e5366bf
+bundleId: https://api.rpubs.com/api/v1/document/341501/4f47d87fb89c4ef299bbcd116e5366bf
+url: http://rpubs.com/Pacman/341501
+when: 1513213496.02711
